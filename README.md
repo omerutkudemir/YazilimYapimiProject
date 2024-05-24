@@ -27,6 +27,10 @@ kullanıcının karşısına çıkar
 ------------------------------------
 UYGULAMA KOTLİN İLE GELİŞTİRİMİŞTİR
 ------------------------------------
+kelimeler chat gptden alınıp Deepl yapay zeka aracının apisi kullanılarak hızlıca çevrilip veritabanına kaydedilmiştir
+------------------------------------
+
+------------------------------------
 
 RESTful api node.js ile geliştirlmiştir
 ------------------------------------
