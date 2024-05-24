@@ -19,9 +19,7 @@ uygulama içinde bulunan kelimeler kullanıcnın karşısına çıkar ve kullan�
 ------------------------------------
 5 defa bilnen kelimeler 6 ay sonra
 ------------------------------------
-6 defa bilinen kelimeler 12 ay sonra ;
-------------------------------------
-kullanıcının karşısına çıkar
+6 defa bilinen kelimeler 12 ay sonra kullanıcının karşısına çıkar
 ------------------------------------
 1 defa yanlıs bilinmesi durumunda seri sıfırlanı ve baştan başlar
 ------------------------------------
