@@ -1,4 +1,4 @@
-MANİSA CELAL BAYAR ÜNİVERSİTESİ YAZILIM MÜHENDİSLİĞİ DÖNEM PROJESİ
+
 ------------------------------------------------------------------------
 -------------------
 GELİŞTİRCİLER;
@@ -25,7 +25,7 @@ uygulama içinde bulunan kelimeler kullanıcnın karşısına çıkar ve kullan�
 ------------------------------------
 UYGULAMA KOTLİN İLE GELİŞTİRİMİŞTİR
 ------------------------------------
-kelimeler chat gptden alınıp Deepl yapay zeka aracının apisi kullanılarak hızlıca çevrilip veritabanına kaydedilmiştir
+
 ------------------------------------
 
 ------------------------------------
