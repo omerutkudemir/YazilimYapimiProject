@@ -1,10 +1,4 @@
 
-------------------------------------------------------------------------
--------------------
-GELİŞTİRCİLER;
-Ömer Utku Demir , Kerem Güllü
-------------------------------------
-
 Proje: 6 sefer tekrarlı ingilzice kelime öğrenme uygulaması
 -------------------
 uygulama içinde bulunan kelimeler kullanıcnın karşısına çıkar ve kullanıcının kelime bilme durumuna göre kelimeler kullanıcıyha gösterilir
@@ -24,10 +18,6 @@ uygulama içinde bulunan kelimeler kullanıcnın karşısına çıkar ve kullan�
 1 defa yanlıs bilinmesi durumunda seri sıfırlanı ve baştan başlar
 ------------------------------------
 UYGULAMA KOTLİN İLE GELİŞTİRİMİŞTİR
-------------------------------------
-
-------------------------------------
-
 ------------------------------------
 
 RESTful api node.js ile geliştirlmiştir
