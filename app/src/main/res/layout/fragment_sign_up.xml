@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".presentation.view.SignUpFragment">
+
+    <EditText
+        android:id="@+id/AD"
+        android:layout_width="257dp"
+        android:layout_height="67dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/ad"
+        android:inputType="text"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.157" />
+
+    <EditText
+        android:id="@+id/SOYAD"
+        android:layout_width="258dp"
+        android:layout_height="62dp"
+        android:ems="10"
+        android:hint="@string/soyad"
+        android:inputType="text"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.444"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.303"
+        android:autofillHints="" />
+
+    <EditText
+        android:id="@+id/SIFRE1"
+        android:layout_width="255dp"
+        android:layout_height="58dp"
+        android:ems="10"
+        android:hint="@string/sifre"
+        android:inputType="text"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.455"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.425"
+        android:autofillHints="" />
+
+    <Button
+        android:id="@+id/UYEOLL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UYE OL"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.789"
+        tools:ignore="HardcodedText" />
+
+    <EditText
+        android:id="@+id/EPOSTAA"
+        android:layout_width="258dp"
+        android:layout_height="56dp"
+        android:ems="10"
+        android:hint="@string/eposta"
+        android:inputType="textEmailAddress"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.444"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.658"
+        android:autofillHints="" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

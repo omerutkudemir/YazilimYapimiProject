@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475163232067",
+    "project_id": "yazilimyapimiproject",
+    "storage_bucket": "yazilimyapimiproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475163232067:android:a0aaae7f05a5bebfb751f6",
+        "android_client_info": {
+          "package_name": "com.omerutkudemir.yazilimyapimiproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtB8epUQ0P0YfqkkjYfdkK9BTGbrhnmsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
