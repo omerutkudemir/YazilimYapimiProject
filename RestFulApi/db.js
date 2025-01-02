@@ -1,8 +1,8 @@
 const { VarChar } = require("msnodesqlv8");
 const sql = require("mssql");
 const config = {
-  user: "omerutkudemirr",
-  password: "123456",
+  user: "admin",
+  password: "admin",
   server: "LAPTOP-6GU3D2FV\\SQLEXPRESS",
   database: "words",
   port: parseInt(process.env.DB_PORT, 1433),
